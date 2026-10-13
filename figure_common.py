@@ -72,3 +72,7 @@ def r_all(M):
         for alpha in by_norm[n]:
             R[alpha] = r_of(alpha, n, pp, sieve)
     return by_norm, R
+
+# ---------------------------------------------------------------------
+# Terminal output:  none - library module, imported by the other scripts
+# ---------------------------------------------------------------------

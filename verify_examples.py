@@ -30,3 +30,8 @@ if __name__ == "__main__":
     for target, s1, s2, p1, p2 in examples:
         check(target, s1, s2, p1, p2)
     print(f"all {len(examples)} explicit decompositions verified")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python verify_examples.py
+# ---------------------------------------------------------------------
+# all 13 explicit decompositions verified

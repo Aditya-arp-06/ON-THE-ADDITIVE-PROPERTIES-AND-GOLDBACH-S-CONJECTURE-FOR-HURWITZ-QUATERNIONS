@@ -62,3 +62,7 @@ def enumerate_hurwitz_by_norm(nmax):
                     if is_hurwitz(q):
                         by_norm[s // 4].append(q)
     return by_norm
+
+# ---------------------------------------------------------------------
+# Terminal output:  none - library module, imported by the other scripts
+# ---------------------------------------------------------------------

@@ -22,3 +22,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_primecount.png", dpi=150)
 plt.close()
 print("wrote figures/fig_primecount.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig6.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_primecount.png

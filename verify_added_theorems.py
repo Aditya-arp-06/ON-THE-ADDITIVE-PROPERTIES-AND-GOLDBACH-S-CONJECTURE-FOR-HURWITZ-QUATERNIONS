@@ -33,3 +33,9 @@ def verify_needfive_census():
 if __name__ == "__main__":
     verify_norm_two_exact()
     verify_needfive_census()
+
+# ---------------------------------------------------------------------
+# Terminal output:  python verify_added_theorems.py
+# ---------------------------------------------------------------------
+# Theorem 9.6 verified: R(alpha) = 8 on all 24 targets of norm 2
+# Theorem 11.5 census verified: 24 sigma_odd(2m) at every norm 18m, m=1..8

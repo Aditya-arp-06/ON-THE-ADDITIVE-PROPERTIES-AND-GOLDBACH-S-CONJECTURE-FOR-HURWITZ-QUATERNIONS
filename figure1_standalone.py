@@ -69,3 +69,9 @@ plt.tight_layout()
 plt.savefig(os.path.join(FIG, "fig_trace_band.png"), dpi=150)
 plt.close()
 print("wrote", os.path.join(FIG, "fig_trace_band.png"))
+
+# ---------------------------------------------------------------------
+# Terminal output:  python figure1_standalone.py
+# ---------------------------------------------------------------------
+# targets with 2 <= N <= 40: 15912
+# wrote /home/user/ON-THE-ADDITIVE-PROPERTIES-AND-GOLDBACH-S-CONJECTURE-FOR-HURWITZ-QUATERNIONS/figures/fig_trace_band.png

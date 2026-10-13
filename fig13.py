@@ -66,3 +66,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_realaxis_minprime.png", dpi=150)
 plt.close()
 print("wrote figures/fig_realaxis_minprime.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig13.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_realaxis_minprime.png

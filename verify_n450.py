@@ -11,3 +11,9 @@ if __name__ == "__main__":
         assert not any(sieve[norm(sub(alpha, pi))] for pi in prime_points[p]), f"norm {p} summand found"
     print("norms 2, 3, 5 all blocked for N=450 target, as Theorem 11.4 predicts")
     print("smallest viable smaller prime norm is 7")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python verify_n450.py
+# ---------------------------------------------------------------------
+# norms 2, 3, 5 all blocked for N=450 target, as Theorem 11.4 predicts
+# smallest viable smaller prime norm is 7

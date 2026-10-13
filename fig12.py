@@ -37,3 +37,9 @@ plt.savefig("figures/fig_smaller_prime_hist.png", dpi=150)
 plt.close()
 print("wrote figures/fig_smaller_prime_hist.png")
 print(tally)
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig12.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_smaller_prime_hist.png
+# Counter({2: 166800, 3: 56136, 5: 624})

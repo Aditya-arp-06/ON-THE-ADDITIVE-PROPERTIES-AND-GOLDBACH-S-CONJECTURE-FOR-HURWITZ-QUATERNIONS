@@ -21,3 +21,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_counts.png", dpi=150)
 plt.close()
 print("wrote figures/fig_counts.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig5.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_counts.png

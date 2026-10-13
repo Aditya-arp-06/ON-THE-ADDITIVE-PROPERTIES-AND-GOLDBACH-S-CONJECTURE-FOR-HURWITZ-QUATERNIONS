@@ -23,3 +23,12 @@ if __name__ == "__main__":
     for p in sorted(tally):
         print(f"  {p}: {tally[p]} targets")
     print("total:", sum(tally.values()))
+
+# ---------------------------------------------------------------------
+# Terminal output:  python extended_experiment.py
+# ---------------------------------------------------------------------
+# minimal smaller prime norm needed, 2 <= N <= 150:
+#   2: 166800 targets
+#   3: 56136 targets
+#   5: 624 targets
+# total: 223560

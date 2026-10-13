@@ -27,3 +27,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_envelope.png", dpi=150)
 plt.close()
 print("wrote figures/fig_envelope.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig8.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_envelope.png

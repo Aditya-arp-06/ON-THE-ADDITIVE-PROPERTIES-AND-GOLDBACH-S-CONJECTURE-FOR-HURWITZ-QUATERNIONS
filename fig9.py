@@ -30,3 +30,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_R_loglog.png", dpi=150)
 plt.close()
 print("wrote figures/fig_R_loglog.png, slope =", round(slope, 3))
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig9.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_R_loglog.png, slope = 1.251

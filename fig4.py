@@ -33,3 +33,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_parity.png", dpi=150)
 plt.close()
 print("wrote figures/fig_parity.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig4.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_parity.png

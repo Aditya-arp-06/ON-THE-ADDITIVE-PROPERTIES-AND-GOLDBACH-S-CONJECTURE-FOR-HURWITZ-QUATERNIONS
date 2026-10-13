@@ -30,3 +30,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_twin_growth.png", dpi=150)
 plt.close()
 print("wrote figures/fig_twin_growth.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig15.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_twin_growth.png

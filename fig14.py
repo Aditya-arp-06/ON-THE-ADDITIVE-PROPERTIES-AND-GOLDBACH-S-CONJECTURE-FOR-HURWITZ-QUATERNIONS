@@ -48,3 +48,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_selfconj_count.png", dpi=150)
 plt.close()
 print("wrote figures/fig_selfconj_count.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig14.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_selfconj_count.png

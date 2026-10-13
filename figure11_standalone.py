@@ -93,3 +93,11 @@ plt.tight_layout()
 plt.savefig(os.path.join(FIG, "fig_R_distribution.png"), dpi=150)
 plt.close()
 print("wrote", os.path.join(FIG, "fig_R_distribution.png"))
+
+# ---------------------------------------------------------------------
+# Terminal output:  python figure11_standalone.py
+# ---------------------------------------------------------------------
+# N=18: 312 targets, R values [(718, 288), (1086, 24)]
+# N=27: 960 targets, R values [(757, 576), (758, 288), (1189, 96)]
+# N=36: 312 targets, R values [(1649, 288), (2602, 24)]
+# wrote /home/user/ON-THE-ADDITIVE-PROPERTIES-AND-GOLDBACH-S-CONJECTURE-FOR-HURWITZ-QUATERNIONS/figures/fig_R_distribution.png

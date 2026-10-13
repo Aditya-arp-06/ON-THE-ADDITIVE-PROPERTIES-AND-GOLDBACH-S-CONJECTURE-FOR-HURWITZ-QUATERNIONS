@@ -22,3 +22,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_comet.png", dpi=150)
 plt.close()
 print("wrote figures/fig_comet.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig7.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_comet.png

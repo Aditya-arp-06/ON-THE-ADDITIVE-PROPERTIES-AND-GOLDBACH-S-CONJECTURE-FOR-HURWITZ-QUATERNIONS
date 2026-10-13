@@ -74,3 +74,9 @@ def verify_twin(limit):
 if __name__ == "__main__":
     verify_real_axis(120)
     verify_twin(8)
+
+# ---------------------------------------------------------------------
+# Terminal output:  python verify_new_theorems.py
+# ---------------------------------------------------------------------
+# real axis Goldbach verified for every n in 2..120
+# twin family verified for first 8 pairs: [(0, 1), (0, 2), (0, 4), (0, 6), (0, 10), (0, 14), (0, 16), (0, 20)]

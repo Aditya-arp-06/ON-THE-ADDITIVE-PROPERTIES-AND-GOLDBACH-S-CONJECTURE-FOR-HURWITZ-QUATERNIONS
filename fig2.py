@@ -45,3 +45,8 @@ plt.tight_layout()
 plt.savefig("figures/fig_sphere_radius.png", dpi=150)
 plt.close()
 print("wrote figures/fig_sphere_radius.png")
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig2.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_sphere_radius.png

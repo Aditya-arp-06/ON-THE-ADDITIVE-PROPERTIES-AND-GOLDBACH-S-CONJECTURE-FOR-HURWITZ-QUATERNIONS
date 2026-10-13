@@ -31,3 +31,11 @@ if __name__ == "__main__":
     print("ordered decompositions found:", total)
     print("minimum of R:", min(R.values()))
     print("maximum of R:", max(R.values()))
+
+# ---------------------------------------------------------------------
+# Terminal output:  python run_experiments.py
+# ---------------------------------------------------------------------
+# targets with 2 <= N <= 40: 15912
+# ordered decompositions found: 14865240
+# minimum of R: 8
+# maximum of R: 2602

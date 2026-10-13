@@ -38,3 +38,9 @@ plt.savefig("figures/fig_D_parity.png", dpi=150)
 plt.close()
 print("wrote figures/fig_D_parity.png")
 print("norms with odd-D targets:", [(n, o) for n, o in odd_counts if o > 0])
+
+# ---------------------------------------------------------------------
+# Terminal output:  python fig3.py
+# ---------------------------------------------------------------------
+# wrote figures/fig_D_parity.png
+# norms with odd-D targets: [(8, 24), (12, 96), (20, 144), (28, 192)]
