@@ -49,8 +49,7 @@ maximal quaternion orders.
 
 ### Prior presentation
 
-Earlier stages of this research were selected for an Oral Presentation Assessment at the
-S.-T. Yau High School Science Award Asia (YHSA) and presented at the 4th International
+Earlier stages of this research were presented at the 4th International
 Mathematics and Statistics Student Research Symposium (IMSSRS).
 
 ## The code
